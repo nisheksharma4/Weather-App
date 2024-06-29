@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin: 20px 0;
+}
+
+input {
+  padding: 8px;
+  margin-right: 10px;
+}
+
+button {
+  padding: 8px;
+}
+
+h2 {
+  margin: 10px 0;
+}
+
+p {
+  margin: 5px 0;
+}
